@@ -1,6 +1,6 @@
 #fami
 
-A content sharing service for the family. Sparked by a conversation with my cousin Collin MacDonald during a family supper in 2012. Having some basic hardware avaliable for serving the application has sparked further development on the project.
+A content sharing service for the family. Sparked by a conversation with my cousin during a family supper in 2012. Having some basic hardware avaliable for serving the application has sparked further development on the project.
 
 ##TODO
 * Authentication
